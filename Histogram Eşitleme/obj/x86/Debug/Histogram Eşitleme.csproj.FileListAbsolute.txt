@@ -1,0 +1,8 @@
+c:\users\ali ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\obj\x86\Debug\Histogram_Eşitleme.Form1.resources
+c:\users\ali ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\obj\x86\Debug\Histogram_Eşitleme.Properties.Resources.resources
+c:\users\ali ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\obj\x86\Debug\Histogram Eşitleme.csproj.GenerateResource.Cache
+c:\users\ali ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\bin\Debug\Histogram Eşitleme.exe
+c:\users\ali ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\bin\Debug\Histogram Eşitleme.pdb
+c:\users\ali ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\obj\x86\Debug\Histogram Eşitleme.exe
+c:\users\ali ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\obj\x86\Debug\Histogram Eşitleme.pdb
+C:\Users\Ali Ekber\documents\visual studio 2010\Projects\Histogram Eşitleme\Histogram Eşitleme\obj\x86\Debug\Histogram Eşitleme.csprojResolveAssemblyReference.cache
